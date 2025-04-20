@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Pessi",
+        "FullName": "Pionel Pessi",
+        "Codename": "Pessi",
+        "Trained": false,
+        "Rarity": "Bronze",
+        "Overall": 1,
+        "Shooting": 85,
+        "ShotPower": 72,
+        "ShotAccuracy": 90,
+        "Passing": 90,
+        "PassSpeed": 87,
+        "PassAccuracy": 90,
+        "Comfort": 0,
+        "Position": "ST",
+        "Nation": "Argentina",
+        "League": "La Liga",
+        "Club": "Bilbao",
+        "Face": 0
+    },
+    {
+        "Name": "GOAT",
+        "FullName": "GOAT",
+        "Codename": "GOAT",
+        "Trained": false,
+        "Rarity": "Gold",
+        "Overall": 99,
+        "Shooting": 99,
+        "ShotPower": 99,
+        "ShotAccuracy": 99,
+        "Passing": 90,
+        "PassSpeed": 90,
+        "PassAccuracy": 90,
+        "Comfort": 0,
+        "Position": "ST",
+        "Nation": "Spain",
+        "League": "La Liga",
+        "Club": "Bilbao",
+        "Face": 1
+    }
+]
