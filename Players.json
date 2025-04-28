@@ -19,7 +19,7 @@
         "Club": "Riyadh Yellow",
         "Face": 0
     ],
-    "players": [
+    [
         "Name": "Deebala",
         "FullName": "Paul Deebala",
         "Codename": "Deebala",
@@ -39,7 +39,7 @@
         "Club": "Roma FC",
         "Face": 1
     ],
-    "players": [
+    [
         "Name": "Jusiala",
         "FullName": "Amal Jusiala",
         "Codename": "Jusiala",
