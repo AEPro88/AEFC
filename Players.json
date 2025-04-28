@@ -1,5 +1,5 @@
-[
-    "players": {
+{
+    "players": [
         "Name": "Penaldo",
         "FullName": "Pisstiano Penaldo",
         "Codename": "Penaldo",
@@ -18,8 +18,8 @@
         "League": "Saudi",
         "Club": "Riyadh Yellow",
         "Face": 0
-    },
-    "players": {
+    ],
+    "players": [
         "Name": "Deebala",
         "FullName": "Paul Deebala",
         "Codename": "Deebala",
@@ -38,8 +38,8 @@
         "League": "Italian League",
         "Club": "Roma FC",
         "Face": 1
-    },
-    "players": {
+    ],
+    "players": [
         "Name": "Jusiala",
         "FullName": "Amal Jusiala",
         "Codename": "Jusiala",
@@ -58,5 +58,5 @@
         "League": "German League",
         "Club": "Munich FC",
         "Face": 0
-    }
+    ]
 ]
