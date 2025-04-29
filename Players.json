@@ -78,7 +78,7 @@
         "League": "USA League",
         "Club": "Miami FC",
         "Face": 0
-        }'
+        },
         {
         "Name": "GOAT",
         "FullName": "GOAT",
@@ -97,6 +97,6 @@
         "League": "Spanish League",
         "Club": "Bilbao FC",
         "Face": 0
-    };
+    }
     ]
 }
