@@ -19,7 +19,7 @@
         "League": "Saudi",
         "Club": "Riyadh Yellow",
         "Face": 0
-        }, 
+        },
         {
         "Name": "Deebala",
         "FullName": "Paul Deebala",
@@ -59,6 +59,6 @@
         "League": "German League",
         "Club": "Munich FC",
         "Face": 0
-    ]
+        }
     ]
 }
