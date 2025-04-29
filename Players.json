@@ -1,5 +1,6 @@
 {
 "players" : [
+        {
         "Name": "Penaldo",
         "FullName": "Pisstiano Penaldo",
         "Codename": "Penaldo",
@@ -18,5 +19,6 @@
         "League": "Saudi",
         "Club": "Riyadh Yellow",
         "Face": 0
+        }
     ]
 }
