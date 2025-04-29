@@ -19,46 +19,6 @@
         "League": "Saudi",
         "Club": "Riyadh Yellow",
         "Face": 0
-        },
-        {
-        "Name": "Deebala",
-        "FullName": "Paul Deebala",
-        "Codename": "Deebala",
-        "Trained": false,
-        "Rarity": "Gold",
-        "Overall": 85,
-        "Shooting": 84,
-        "ShotPower": 82,
-        "ShotAccuracy": 86,
-        "Passing": 87,
-        "PassSpeed": 85,
-        "PassAccuracy": 89,
-        "Comfort": 0,
-        "Position": "CAM",
-        "Nation": "Argentina",
-        "League": "Italian League",
-        "Club": "Roma FC",
-        "Face": 1
-        },
-        {
-        "Name": "Jusiala",
-        "FullName": "Amal Jusiala",
-        "Codename": "Jusiala",
-        "Trained": false,
-        "Rarity": "Gold",
-        "Overall": 86,
-        "Shooting": 86,
-        "ShotPower": 85,
-        "ShotAccuracy": 87,
-        "Passing": 87,
-        "PassSpeed": 86,
-        "PassAccuracy": 88,
-        "Comfort": 0,
-        "Position": "CAM",
-        "Nation": "Germany",
-        "League": "German League",
-        "Club": "Munich FC",
-        "Face": 0
         }
     ]
 }
