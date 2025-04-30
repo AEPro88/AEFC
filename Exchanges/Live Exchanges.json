@@ -28,6 +28,35 @@
     },
     "OVRCost": 1,
     "AmmountCost": 1
+}, 
+{
+"Name": "Pessi",
+    "Reward": {
+        "Name": "Pessi",
+        "FullName": "Pionel pessi",
+        "Codename": "Pessi origins",
+        "Trained": false,
+        "Rarity": "Gold",
+        "Overall": 99,
+        "Shooting": 99,
+        "ShotPower": 99,
+        "ShotAccuracy": 99,
+        "Passing": 90,
+        "PassSpeed": 90,
+        "PassAccuracy": 90,
+        "Speed": 99,
+        "Dribbling": 99,
+        "BallControl": 99,
+        "Technique": 99,
+        "Defending": 99,
+        "Comfort": 0,
+        "Nation": "Argentina",
+        "League": "USA League",
+        "Club": "Miami FC",
+        "Position": "LW"
+    },
+    "OVRCost": 1,
+    "AmmountCost": 2
 }
 ]
 }
