@@ -1,0 +1,28 @@
+{ 
+"ExchangePlayers" : [
+{
+"Name": "AEPro",
+    "Reward": {
+        "Name": "AEPro",
+        "FullName": "AEPro",
+        "Codename": "AEPro Owner",
+        "Trained": false,
+        "Rarity": "Gold",
+        "Overall": 99,
+        "Shooting": 99,
+        "ShotPower": 99,
+        "ShotAccuracy": 99,
+        "Passing": 90,
+        "PassSpeed": 90,
+        "PassAccuracy": 90,
+        "Comfort": 0,
+        "Nation": "Spain",
+        "League": "Legend",
+        "Club": "Legend",
+        "Position": "ST"
+    },
+    "Cost": [1, 1]
+}
+]
+}
+
