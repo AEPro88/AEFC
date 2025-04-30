@@ -21,7 +21,8 @@
         "Club": "Legend",
         "Position": "ST"
     },
-    "Cost": [1, 1]
+    "OVRCost": 1,
+    "AmmountCost": 1
 }
 ]
 }
