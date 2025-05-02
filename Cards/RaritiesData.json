@@ -1,6 +1,9 @@
 {
     "Rarities": [
       {
+        "Name": "Not found",
+        "Link": "https://aepro88.github.io/AEFC/Cards/Unknown.png"
+      }, {
         "Name": "Bronze",
         "Link": "https://aepro88.github.io/AEFC/Cards/Bronze.png",
       },
@@ -11,6 +14,10 @@
       {
         "Name": "Gold",
         "Link": "https://aepro88.github.io/AEFC/Cards/Gold.png"
+      },
+      {
+        "Name": "Origins",
+        "Link": "https://aepro88.github.io/AEFC/Cards/Origins.png"
       }
     ]
 }
