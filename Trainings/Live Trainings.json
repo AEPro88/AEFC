@@ -3,9 +3,9 @@
 {
 "Name" : "Welcome To AEFC",
 "Description" : "This is the tutorial of how the trainings feature works in AEFC! Add +1 Overall to any player up to 80 rated to learn how to improve your favourite players",
-"maxOvr": "90",
-"statCapOvr": "0",
-"ovrUpgrade": "1",
+"maxOvr": 90,
+"statCapOvr": 0,
+"ovrUpgrade": 1,
 "Tab": 1
 }
 ]
