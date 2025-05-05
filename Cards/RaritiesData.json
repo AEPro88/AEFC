@@ -21,6 +21,16 @@
           "Players": ""
       },
       {
+        "Name": "Training",
+        "Link": "https://aepro88.github.io/AEFC/Cards/Training.png",
+          "Players": ""
+      },
+      {
+        "Name": "Legends",
+        "Link": "https://aepro88.github.io/AEFC/Cards/Legends.png",
+          "Players": "https://aepro88.github.io/AEFC/Special/Legends.json"
+      },
+      {
         "Name": "Origins",
         "Link": "https://aepro88.github.io/AEFC/Cards/Origins.png",
         "Players": "https://aepro88.github.io/AEFC/Special/Origins.json"
