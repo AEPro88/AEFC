@@ -1,1 +1,31 @@
-
+{
+"players" : [
+        {
+        "Name": "OhNahNah",
+        "FullName": "Andrew OhNahNah",
+        "Codename": "OhNahNah Origins",
+        "Rarity": "Origins",
+        "Overall": 85,
+        "Shooting": 50,
+        "ShotPower": 52,
+        "ShotAccuracy": 48,
+        "Passing": 80,
+        "PassSpeed": 65,
+        "PassAccuracy": 75,
+        "Speed": 40,
+        "Dribbling": 45,
+        "BallControl": 45,
+        "Technique": 45,
+        "Defending": 50,
+        "GkDiving": 83,
+        "GkHandling": 80,
+        "GkPositioning": 85,
+        "GkReflexes": 85,
+        "Position": "GK",
+        "Nation": "Cameroon",
+        "League": "Premium League",
+        "Club": "Manchester Red Union",
+        "Face": 0
+        }
+    ]
+}
