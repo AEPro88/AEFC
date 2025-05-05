@@ -1,19 +1,19 @@
 {
     "packs": [
         {
-            "Name": "Gold Pack",
+            "Name": "Test Pack",
             "PlayersCount": 5,
             "MinOvr": 70,
-            "MaxOvr": 90,
+            "MaxOvr": 99,
             "RarityWeights": {
                 "Gold": 80,
                 "Special": 20
             }
         },
         {
-            "Name": "Special Pack",
+            "Name": "Best Pack",
             "PlayersCount": 3,
-            "MinOvr": 80,
+            "MinOvr": 86,
             "MaxOvr": 99,
             "RarityWeights": {
                 "Gold": 50,
