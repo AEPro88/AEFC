@@ -1,0 +1,24 @@
+{
+    "packs": [
+        {
+            "Name": "Gold Pack",
+            "PlayersCount": 5,
+            "MinOvr": 70,
+            "MaxOvr": 90,
+            "RarityWeights": {
+                "Gold": 80,
+                "Special": 20
+            }
+        },
+        {
+            "Name": "Special Pack",
+            "PlayersCount": 3,
+            "MinOvr": 80,
+            "MaxOvr": 99,
+            "RarityWeights": {
+                "Gold": 50,
+                "Special": 50
+            }
+        }
+    ]
+}
