@@ -2,23 +2,28 @@
     "Rarities": [
       {
         "Name": "Not found",
-        "Link": "https://aepro88.github.io/AEFC/Cards/Unknown.png"
+        "Link": "https://aepro88.github.io/AEFC/Cards/Unknown.png",
+        "Players": ""
       },
       {
         "Name": "Bronze",
-        "Link": "https://aepro88.github.io/AEFC/Cards/Bronze.png"
+        "Link": "https://aepro88.github.io/AEFC/Cards/Bronze.png",
+        "Players": ""
       },
       {
         "Name": "Silver",
-        "Link": "https://aepro88.github.io/AEFC/Cards/Silver.png"
+        "Link": "https://aepro88.github.io/AEFC/Cards/Silver.png",
+        "Players": ""
       },
       {
         "Name": "Gold",
-        "Link": "https://aepro88.github.io/AEFC/Cards/Gold.png"
+        "Link": "https://aepro88.github.io/AEFC/Cards/Gold.png",
+          "Players": ""
       },
       {
         "Name": "Origins",
-        "Link": "https://aepro88.github.io/AEFC/Cards/Origins.png"
+        "Link": "https://aepro88.github.io/AEFC/Cards/Origins.png",
+        "Players": "https://aepro88.github.io/AEFC/Special/Origins.json"
       }
     ]
 }
