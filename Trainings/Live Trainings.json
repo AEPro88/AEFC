@@ -10,6 +10,16 @@
 "Uses": 99999999
 }, 
 {
+"Name" : "Original Aura",
+"Description" : "Bring your favourite player from any position into its original prime with enough upgrades to be on the next level.",
+"maxOvr": 83,
+"statCapOvr": 86,
+"ovrUpgrade": 20,
+"Tab": 1,
+"Uses": 99999999,
+"Rarity": "Origins"
+}, 
+{
 "Name" : "Bronze Beast",
 "Description" : "Turn your favourite bronze player from any position into a beast with enough upgrades to be on the same level as the best in the world!",
 "maxOvr": 64,
