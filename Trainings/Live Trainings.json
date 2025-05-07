@@ -22,12 +22,14 @@
 }, 
 {
 "Name" : "Winning Winger",
-"Description" : "Train your LW or RW into a winner! Including upgrades to make you able to outrun the opposing defender and score the winning goal for your club.",
-"maxOvr": 78,
-"statCapOvr": 82,
-"ovrUpgrade": 8,
+"Description" : "Train your LW or RW into a winner! Including the ability to play in the opposite wing and enough upgrades to score the winning goal.",
+"maxOvr": 90,
+"statCapOvr": 92,
+"ovrUpgrade": 80,
 "Tab": 1,
-"Uses": 99999999
+"Uses": 99999999,
+"position": ["LW", "RW"],
+"positionR": ["LW", "RW"]
 },
 {
 "Name" : "Bronze Beast",
