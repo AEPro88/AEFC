@@ -11,13 +11,14 @@
 }, 
 {
 "Name" : "Original Aura",
-"Description" : "Bring your favourite player from any position into its original prime with enough upgrades to be on the next level.",
-"maxOvr": 83,
+"Description" : "Bring your favourite Origins player with a maximum of 84 ovr from any position into its true origins with 86 ovr upgrades to be on the next level.",
+"maxOvr": 84,
 "statCapOvr": 86,
-"ovrUpgrade": 20,
+"ovrUpgrade": 6,
 "Tab": 1,
 "Uses": 99999999,
-"rarity": "Origins"
+"rarity": "Origins",
+"requiredRarity": "Origins"
 }, 
 {
 "Name" : "Bronze Beast",
