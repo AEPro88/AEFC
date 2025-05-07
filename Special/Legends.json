@@ -27,6 +27,34 @@
         "League": "Legend",
         "Club": "Legend",
         "Face": 1
+        },
+        {
+        "Name": "Ronolando",
+        "FullName": "Ronolando Nozazari",
+        "Codename": "Ronolando",
+        "Rarity": "Legends",
+        "Overall": 88,
+        "Shooting": 92,
+        "ShotPower": 90,
+        "ShotAccuracy": 94,
+        "Passing": 73,
+        "PassSpeed": 74,
+        "PassAccuracy": 73,
+        "Speed": 93,
+        "Dribbling": 87,
+        "BallControl": 86,
+        "Technique": 88,
+        "Defending": 30,
+        "GkDiving": 20,
+        "GkHandling": 23,
+        "GkPositioning": 20,
+        "GkReflexes": 30,
+        "Comfort": 10,
+        "Position": "ST",
+        "Nation": "Brazil",
+        "League": "Legend",
+        "Club": "Legend",
+        "Face": 1
         }
     ]
 }
