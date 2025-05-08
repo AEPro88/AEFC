@@ -32,6 +32,16 @@
 "positionR": ["LW", "RW"]
 },
 {
+"Name" : "Original Goalscorer",
+"Description" : "Bring your favourite ST back to its original goal scoring prime with big upgrades to shooting and speed!",
+"maxOvr": 80,
+"statCapOvr": 84,
+"ovrUpgrade": 20,
+"Tab": 1,
+"position": ["ST"],
+"Uses": 99999999
+},
+{
 "Name" : "Bronze Beast",
 "Description" : "Turn your favourite bronze player from any position into a beast with enough upgrades to be on the same level as the best in the world!",
 "maxOvr": 64,
