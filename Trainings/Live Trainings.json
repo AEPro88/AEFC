@@ -39,7 +39,8 @@
 "ovrUpgrade": 20,
 "Tab": 1,
 "positionR": ["ST"],
-"Uses": 99999999
+"rarity": "Origins",
+"Uses": 1
 },
 {
 "Name" : "Bronze Beast",
