@@ -296,6 +296,33 @@
         "League": "German League",
         "Club": "Dortmund FC",
         "Face": 1
+        },
+        {
+        "Name": "Buddymint",
+        "FullName": "Anti Buddymint",
+        "Codename": "Buddymint",
+        "Rarity": "Gold",
+        "Overall": 82,
+        "Shooting": 84,
+        "ShotPower": 83,
+        "ShotAccuracy": 85,
+        "Passing": 79,
+        "PassSpeed": 79,
+        "PassAccuracy": 80,
+        "Speed": 78,
+        "Dribbling": 81,
+        "BallControl": 81,
+        "Technique": 82,
+        "Defending": 47,
+        "GkDiving": 20,
+        "GkHandling": 24,
+        "GkPositioning": 20,
+        "GkReflexes": 14,
+        "Position": ["ST"],
+        "Nation": "Croatia",
+        "League": "Spanish League",
+        "Club": "Pamplona FC",
+        "Face": 1
         }
     ]
 }
