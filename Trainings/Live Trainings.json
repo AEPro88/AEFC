@@ -37,6 +37,8 @@
 "maxOvr": 82,
 "statCapOvr": 84,
 "ovrUpgrade": 20,
+"statCapShooting": 87,
+"ShootingUpgrade": 50,
 "Tab": 1,
 "positionR": ["ST"],
 "rarity": "Origins",
