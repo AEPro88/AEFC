@@ -1,57 +1,60 @@
 { 
 "Trainings" : [
 {
-"Name" : "Welcome To AEFC",
-"Description" : "This is the introduction to the trainings feature in AEFC! Add +1 Overall to any player up to 80 rated and learn how to improve your favourite players!",
-"maxOvr": 90,
-"statCapOvr": 0,
-"ovrUpgrade": 1,
-"Tab": 1,
-"Uses": 99999999
+  "Name" : "Welcome To AEFC",
+  "Description" : "This is the introduction to the trainings feature in AEFC! Add +2 Overall to any player up to 82 rated and learn how to improve your favourite players!",
+  "maxOvr": 90,
+  "statCapOvr": 0,
+  "ovrUpgrade": 2,
+  "ShootingUpgrade": 2,
+  "Tab": 1,
+  "Uses": 99999999
 }, 
 {
-"Name" : "Original Aura",
-"Description" : "Bring your favourite Origins player with a maximum of 84 ovr from any position into its true origins with 86 ovr upgrades to be on the next level.",
-"maxOvr": 85,
-"statCapOvr": 86,
-"ovrUpgrade": 6,
-"Tab": 1,
-"Uses": 1,
-"rarity": "Origins",
-"requiredRarity": "Origins"
+  "Name" : "Original Aura",
+  "Description" : "Bring your favourite Origins player with a maximum of 84 ovr from any position into its true origins with 86 ovr upgrades to be on the next level.",
+  "maxOvr": 85,
+  "statCapOvr": 86,
+  "ovrUpgrade": 6,
+  "Tab": 1,
+  "Uses": 1,
+  "rarity": "Origins",
+  "requiredRarity": "Origins"
 }, 
 {
-"Name" : "Winning Winger",
-"Description" : "Train your LW or RW into a winner! Including the ability to play in the opposite wing and enough upgrades to score the winning goal.",
-"maxOvr": 90,
-"statCapOvr": 92,
-"ovrUpgrade": 80,
-"Tab": 1,
-"Uses": 99999999,
-"position": ["LW", "RW"],
-"positionR": ["LW", "RW"]
+  "Name" : "Winning Winger",
+  "Description" : "Train your LW or RW into a winner! Including the ability to play in the opposite wing and enough upgrades to score the winning goal.",
+  "maxOvr": 90,
+  "statCapOvr": 92,
+  "ovrUpgrade": 80,
+  "statCapShooting": 85,
+  "ShootingUpgrade": 25,
+  "Tab": 1,
+  "Uses": 99999999,
+  "position": ["LW", "RW"],
+  "positionR": ["LW", "RW"]
 },
 {
-"Name" : "Original Goalscorer",
-"Description" : "Bring your favourite ST back to its original goal scoring prime with big upgrades to shooting and speed!",
-"maxOvr": 82,
-"statCapOvr": 84,
-"ovrUpgrade": 20,
-"statCapShooting": 87,
-"ShootingUpgrade": 50,
-"Tab": 1,
-"positionR": ["ST"],
-"rarity": "Origins",
-"Uses": 1
+  "Name" : "Original Goalscorer",
+  "Description" : "Bring your favourite ST back to its original goal scoring prime with big upgrades to shooting and speed!",
+  "maxOvr": 82,
+  "statCapOvr": 84,
+  "ovrUpgrade": 20,
+  "statCapShooting": 87,
+  "ShootingUpgrade": 50,
+  "Tab": 1,
+  "positionR": ["ST"],
+  "rarity": "Origins",
+  "Uses": 1
 },
 {
-"Name" : "Bronze Beast",
-"Description" : "Turn your favourite bronze player from any position into a beast with enough upgrades to be on the same level as the best in the world!",
-"maxOvr": 64,
-"statCapOvr": 82,
-"ovrUpgrade": 20,
-"Tab": 1,
-"Uses": 99999999
+  "Name" : "Bronze Beast",
+  "Description" : "Turn your favourite bronze player from any position into a beast with enough upgrades to be on the same level as the best in the world!",
+  "maxOvr": 64,
+  "statCapOvr": 82,
+  "ovrUpgrade": 20,
+  "Tab": 1,
+  "Uses": 99999999
 }
 ]
 }
