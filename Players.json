@@ -334,6 +334,35 @@
                 "Club": "Pamplona FC",
                 "Face": 1,
                 "Price": 165000
+        },
+        {
+                "Name": "LIVE CARD",
+                "FullName": "TEST CARD",
+                "Codename": "LIVE CARD",
+                "Rarity": "Gold",
+                "Overall": 85,
+                "Shooting": 84,
+                "ShotPower": 83,
+                "ShotAccuracy": 85,
+                "Passing": 79,
+                "PassSpeed": 79,
+                "PassAccuracy": 80,
+                "Speed": 78,
+                "Dribbling": 81,
+                "BallControl": 81,
+                "Technique": 82,
+                "Defending": 47,
+                "GkDiving": 20,
+                "GkHandling": 24,
+                "GkPositioning": 20,
+                "GkReflexes": 14,
+                "Position": ["ST"],
+                "Nation": "Croatia",
+                "League": "Spanish League",
+                "Club": "Pamplona FC",
+                "Face": 1,
+                "Price": 165000, 
+                "Live": true
         }
     ]
 }
