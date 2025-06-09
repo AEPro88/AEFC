@@ -361,7 +361,8 @@
                 "League": "Spanish League",
                 "Club": "Pamplona FC",
                 "Face": 1,
-                "Price": 165000
+                "Price": 165000,
+                "Live": true
         }
     ]
 }
