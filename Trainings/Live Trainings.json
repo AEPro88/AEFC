@@ -1,6 +1,16 @@
 { 
 "Trainings" : [
 {
+  "Name" : "BENLINGOLS BALLS",
+  "Description" : "Good ball game = 99 rizz! (just end this ge now mate)",
+  "maxOvr": 90,
+  "statCapOvr": 99,
+  "ovrUpgrade": 30,
+  "ShootingUpgrade": 900,
+  "Tab": 1,
+  "Uses": 99999999
+}, 
+{
   "Name" : "Welcome To AEFC",
   "Description" : "This is the introduction to the trainings feature in AEFC! Add +2 Overall to any player up to 82 rated and learn how to improve your favourite players!",
   "maxOvr": 90,
