@@ -8,6 +8,7 @@ GAME WONT BE AVAILABLE ON IOS
 # OPEN PROTOTYPE
 Availabe features: Live exchanges, trainings and early version of club view (lineups not working yet)
 ## Download links
+## PC: <a href="https://aepro88.itch.io/aefc"> Click here to download AEFC from itch.io (password is: "AEFC is sigma")
 ## ANDROID <a href="https://aepro88.github.io/AEFC/Releases/Prototypes/AEFC%20Android%20Beta.apk"> Click here to download </a>
 ## IOS NOT AVAILABLE
 
