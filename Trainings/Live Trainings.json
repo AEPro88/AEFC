@@ -1,8 +1,28 @@
 { 
 "Trainings" : [
 {
+  "Name" : "Great use of balls",
+  "Description" : "99 ball control merchants evo",
+  "maxOvr": 90,
+  "statCapOvr": 99,
+  "ovrUpgrade": 30,
+  "ShootingUpgrade": 900,
+  "Tab": 1,
+  "Uses": 99999999
+}, 
+{
+  "Name" : "WHAT A TOUCH TO FINISH OFF",
+  "Description" : "Great ball control acould be crucial to score a goal!",
+  "maxOvr": 90,
+  "statCapOvr": 99,
+  "ovrUpgrade": 30,
+  "ShootingUpgrade": 900,
+  "Tab": 1,
+  "Uses": 99999999
+}, 
+{
   "Name" : "BENLINGOLS BALLS",
-  "Description" : "Good ball game = 99 rizz! (just end this ge now mate)",
+  "Description" : "Good ball game = 99 rizz! (just end this game now mate)",
   "maxOvr": 90,
   "statCapOvr": 99,
   "ovrUpgrade": 30,
