@@ -8,7 +8,8 @@
   "ovrUpgrade": 670,
   "ShootingUpgrade": 900,
   "Tab": 1,
-  "Uses": 99999999
+  "Uses": 99999999,
+  "rarity": "GOTA"
 }, 
 {
   "Name" : "BENLINGOLS BALLS",
