@@ -41,6 +41,12 @@
         "Link": "https://aepro88.github.io/AEFC/Cards/Origins.png",
         "Players": "https://aepro88.github.io/AEFC/Special/Origins.json",
         "Weight": 8
+      },
+      {
+        "Name": "GOTA",
+        "Link": "https://aepro88.github.io/AEFC/Cards/GOTA.png",
+        "Players": "https://aepro88.github.io/AEFC/Special/GOTA.json",
+        "Weight": 20
       }
     ]
 }
