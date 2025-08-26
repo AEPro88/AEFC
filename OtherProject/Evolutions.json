@@ -1,1 +1,13 @@
-Hello
+{
+  "evos" : [
+    {
+      "Name": "The Condor",
+      "OverallR": 97,
+      "PaceR": 98,
+      "DribblingR": 98,
+      "MaxPS": 10,
+      "MaxPSPlus": 4,
+      "Position": ["CM","CDM"],
+      "ExcludedPosition": ["CB"]
+    }
+  ]
