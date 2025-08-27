@@ -8,6 +8,62 @@
       "MaxPS": 10,
       "MaxPSPlus": 4,
       "Position": ["CM","CDM"],
-      "ExcludedPosition": ["CB"]
+      "ExcludedPosition": ["CB"],
+      "Level Upgrades": [
+        {
+          "OverallU": 7,
+          "PaceU": 7,
+          "PaceC": 94,
+          "ShootingU": 5,
+          "ShootingC": 90,
+          "CrossingU": 5,
+          "CrossingC": 95,
+          "FKAccuracyU": 5,
+          "FKAccuracyC": 97
+        }, 
+        {
+          "DribblingU": 5,
+          "DribblingC": 93,
+          "VisionU": 10,
+          "VisionC": 97,
+          "StaminaU": 15,
+          "Playstyles": ["Quick Step"],
+          "PSC": 7,
+          "PlaystylesPlus": ["Bruiser"],
+          "PSPlusC": "5"
+        }, 
+        {
+          "CurveU": 10,
+          "CurveC": 97,
+          "JumpingU": 10,
+          "JumpingC": 95,
+          "StrengthU": 15,
+          "StrengthC": 97,
+          "Playstyles": ["Press Proven"],
+          "PSC": 7,
+          "PlaystylesPlus": ["Tiki Taka"],
+          "PSPlusC": "5"
+        }
+        {
+          "WeakFootU": 3,
+          "LongPassU": 15,
+          "LongPassC": 97,
+          "AggressionU": 15,
+          "AggressionC": 98,
+          "Playstyles": ["Slide Tackle"],
+          "PSC": 7,
+          "PlaystylesPlus": ["Intercept"],
+          "PSPlusC": "5"
+        },
+        {
+          "SkillMovesU": 3,
+          "ShortPassU": 15,
+          "ShortPassC": 97,
+          "Playstyles": ["Relentless"],
+          "PSC": 7,
+          "PlaystylesPlus": ["Pinged Pass"],
+          "PSPlusC": "5"
+        }
+      ]
     }
   ]
