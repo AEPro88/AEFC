@@ -560,6 +560,26 @@
             "Rarity": "Silver"
         },
         {
+            "Name": "Unai Simon",
+            "Height": 190,
+            "Overall": 85,
+            "SkillMoves": 1,
+            "WeakFoot": 3,
+            "Diving": 84,
+            "Handling": 80,
+            "Kicking": 76,
+            "Reflexes": 85,
+            "Speed": 49,
+            "Positioning": 84,
+            "Positions": ["GK"],
+            "PlaystylesPlus": ["Pinged Pass", "Footword", "Rush Out"],
+            "Playstyles": null,
+            "Nation": "Mexico",
+            "League": "La Liga",
+            "Club": "Athletic Club",
+            "Rarity": "Silver"
+        },
+        {
             "Name": "Unai Nunez",
             "Height": 101,
             "Overall": 76,
