@@ -658,6 +658,34 @@
             "Rarity": "Gold"
         },
         {
+            "Name": "Gorosabel",
+            "Height": 174,
+            "Overall": 74,
+            "SkillMoves": 2,
+            "WeakFoot": 2,
+            "Positions": ["RB","RM"],
+            "PlaystylesPlus": null,
+            "Playstyles": ["Jockey"],
+            "Nation": "Spain",
+            "League": "La Liga",
+            "Club": "Athletic Club",
+            "Rarity": "Gold"
+        },
+        {
+            "Name": "Gorosabel",
+            "Height": 182,
+            "Overall": 76,
+            "SkillMoves": 2,
+            "WeakFoot": 2,
+            "Positions": ["RB","RM"],
+            "PlaystylesPlus": null,
+            "Playstyles": ["Slide Tackle"],
+            "Nation": "Spain",
+            "League": "La Liga",
+            "Club": "Athletic Club",
+            "Rarity": "Gold"
+        },
+        {
             "Name": "Sancet",
             "Height": 188,
             "Overall": 84,
