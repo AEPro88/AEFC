@@ -4,7 +4,7 @@
       "Name": "Placeholder",
       "OverallR": 83,
       "PaceR": 89,
-      "Level Upgrades": [
+      "LevelUpgrades": [
         {
           "OverallU": 1,
           "PaceU": 2,
@@ -16,7 +16,7 @@
       "Name": "Placeholder II",
       "OverallR": 83,
       "PaceR": 87,
-      "Level Upgrades": [
+      "LevelUpgrades": [
         {
           "OverallU": 1,
           "PaceU": 2,
