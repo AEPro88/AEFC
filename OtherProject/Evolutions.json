@@ -11,6 +11,18 @@
           "PaceC": 90,
         }
       ]
+    },
+    {
+      "Name": "Placeholder II",
+      "OverallR": 83,
+      "PaceR": 87,
+      "Level Upgrades": [
+        {
+          "OverallU": 1,
+          "PaceU": 2,
+          "PaceC": 90,
+        }
+      ]
     }
   ]
 }
