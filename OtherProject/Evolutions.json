@@ -1,26 +1,16 @@
 {
   "evos" : [
     {
-      "Name": "Placeholder",
-      "OverallR": 83,
-      "PaceR": 89,
+      "Name": "Intro to Evolutions",
+      "OverallR": 81,
+      "Uses": 2,
       "LevelUpgrades": [
         {
           "OverallU": 1,
-          "PaceU": 2,
-          "PaceC": 90
-        }
-      ]
-    },
-    {
-      "Name": "Placeholder II",
-      "OverallR": 83,
-      "PaceR": 87,
-      "LevelUpgrades": [
-        {
-          "OverallU": 1,
-          "PaceU": 2,
-          "PaceC": 90
+          "PaceU": 1,
+          "PaceC": 83,
+          "ShootingU": 1,
+          "ShootingC": 83
         }
       ]
     }
